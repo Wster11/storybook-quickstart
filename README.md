@@ -1,3 +1,14 @@
+# Getting Started with Create storybook/react
+### `npm test --watchAll` run the test runner (Jest) in a terminal
+
+
+### `npm storybook` start the component explorer on port 6006
+
+
+The Reference link: [https://storybook.js.org/tutorials/intro-to-storybook/react/zh-CN/get-started/](https://storybook.js.org/tutorials/intro-to-storybook/react/zh-CN/get-started/)
+
+<br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
